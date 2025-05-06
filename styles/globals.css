@@ -60,6 +60,7 @@
 .ProseMirror > h5 {
   @apply text-[12.8px] font-bold;
 }
+
 .ProseMirror > h6 {
   @apply text-[11.2px] font-bold;
 }
